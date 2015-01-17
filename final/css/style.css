@@ -1,0 +1,147 @@
+
+
+#pusteblume{
+        background-image: url('../img/pusteblume.png');
+        background-size: cover;
+        background-repeat: no-repeat;
+
+
+
+        height:100vh;
+        /*width: 100vw;*/
+        /*width: 100vh;*/
+        background-color: #000;
+
+
+        text-align: center;
+    font-family: 'Great Vibes', cursive;
+padding-top: 20vh;
+    font-size: 50px;
+    font-style: bold;
+    line-height: 50px;
+    color: #1a1a1a;
+
+}
+
+
+#black{
+    width: 100%;
+    height: 10px;
+
+    background-color: #000;
+
+}
+
+
+
+#spatzi_left{
+background-image: url('../img/spatzi_left.png');
+background-size: cover;
+background-repeat: no-repeat;
+        background-color: #000;
+
+    height: 100vh;
+    width: 50%;
+    float: left;
+
+    overflow: hidden;
+
+        font-family: 'Great Vibes', cursive, bold;
+    color: #fff;
+
+    font-size: 35px;
+    line-height: 30px;
+
+    text-align: right;
+
+
+}
+
+#quote2{
+
+
+    width: 50%;
+    margin: 70% auto;
+    opacity: 0.65;
+    padding-right: 2px;
+
+}
+
+
+
+#spatzi_right{
+    background-image: url('../img/spatzi_right.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #000;
+
+       height: 100vh;
+       opacity: 0.6;
+       width: 50%;
+       /*width: 90vh;*/
+       float: right;
+           overflow: hidden;
+           /*clear: right;*/
+
+
+}
+
+footer{
+    clear:both;
+    background-color: #000;
+text-align: center;
+
+}
+
+#whatido{
+
+    width: 25%;
+
+margin: 20% auto;
+
+        color: #000;
+    text-align: justify;
+    letter-spacing: -0.05em;
+
+    font-size: 16px;
+
+    font-family: 'arial', bold;
+
+}
+#whatido a:hover{
+    text-decoration: none;
+    color: #000;
+}
+
+
+
+
+
+/*OOOOAJDIFAJIODSFÖAJIOFJAIOWEJFIOAEÖFJAEIOJFIAOEJFIOAWJEFIOAEJIOFJAE---------------------------------------------------*/
+
+
+
+/*@media only screen and (min-width: 767px) { 
+
+#pusteblume{
+        background-image: url('../img/pusteblume.png');
+        height:100vh;
+
+    width: 100%;
+    display: block;
+}
+
+#spatzi_left{
+background-image: url('../img/spatzi_left.png');
+    height: 100vh;
+
+}
+
+#spatzi_right{
+    background-image: url('../img/spatzi_right.png');
+       height: 100vh;
+
+}
+
+
+    }*/
